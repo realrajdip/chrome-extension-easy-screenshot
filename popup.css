@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    min-width: 250px;
+    border-radius: 200px;
+    margin: 0;
+    padding: 0;
+    background-color: #c4bbbb;
+  }
+  
+  .container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  select, button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #3485e9;
+    color: white;
+    border: none;
+    cursor: pointer; 
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #4783cc;
+  }
+  
